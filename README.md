@@ -93,5 +93,3 @@ I sincerely thank United Telecom Ventures and my supervisors for their guidance,
 ---
 
 **Janhavi Shekhar Kshirsagar**  
-B.E. Cyber Security | Semester VII  
-United Telecom Ventures | Mumbai, India
